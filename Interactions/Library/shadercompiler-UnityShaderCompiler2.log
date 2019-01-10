@@ -1,0 +1,105 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=13247 outsize=72365 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13247 outsize=31245 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13247 outsize=54405 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=13247 outsize=41529 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 14 at CoreRP/ShaderLibrary/AreaLighting.hlsl(355): use of potentially uninitialized variable (LTCEvaluate)
+  error: 1 plat 14 at CoreRP/ShaderLibrary/CommonLighting.hlsl(177): use of potentially uninitialized variable (BoxDistanceAttenuation)
+  error: 1 plat 14 at Lit/Lit.hlsl(1280): use of potentially uninitialized variable (EvaluateBSDF_Line)
+  error: 1 plat 14 at Lit/Lit.hlsl(1389): use of potentially uninitialized variable (EvaluateBSDF_Rect)
+  api=14 insize=13247 outsize=42845 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 14 at BSDF.hlsl(423): use of potentially uninitialized variable (EvalIridescence)
+  api=14 insize=13247 outsize=25841 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 14 at BSDF.hlsl(423): use of potentially uninitialized variable (EvalIridescence)
+  error: 1 plat 14 at CoreRP/ShaderLibrary/AreaLighting.hlsl(355): use of potentially uninitialized variable (LTCEvaluate)
+  error: 1 plat 14 at CoreRP/ShaderLibrary/CommonLighting.hlsl(177): use of potentially uninitialized variable (BoxDistanceAttenuation)
+  error: 1 plat 14 at Lit/Lit.hlsl(866): use of potentially uninitialized variable (preLightData)
+  error: 1 plat 14 at Lit/Lit.hlsl(1280): use of potentially uninitialized variable (EvaluateBSDF_Line)
+  error: 1 plat 14 at Lit/Lit.hlsl(1389): use of potentially uninitialized variable (EvaluateBSDF_Rect)
+  error: 1 plat 14 at Lit/Lit.hlsl(1567): use of potentially uninitialized variable (EvaluateBSDF_SSLighting)
+  api=14 insize=13247 outsize=84593 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=102437 outsize=224865 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=25381 outsize=16085 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=25381 outsize=18573 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=2780 outsize=48553 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6933 outsize=12013 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=5004 outsize=5141 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1534 outsize=1861 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9166 outsize=8529 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=9937 outsize=16829 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18144 outsize=14105 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1037 outsize=1069 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=2867 outsize=793 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=1478 outsize=7445 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=32699 outsize=32649 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 14 at ShadowAlgorithms.hlsl(553): use of potentially uninitialized variable (EvalShadow_CascadedDepth_Blend)
+  error: 1 plat 14 at ShadowSampling.hlsl(342): use of potentially uninitialized variable (SampleShadow_PCF_9tap_Adaptive)
+  error: 1 plat 14 at ShadowSampling.hlsl(569): use of potentially uninitialized variable (SampleShadow_PCSS)
+  api=14 insize=32699 outsize=41729 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=57141 outsize=131653 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=15985 outsize=10345 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1454 outsize=597 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=4729 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=6625 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=6805 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=6181 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=7957 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=8501 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=10245 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16784 outsize=7769 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16784 outsize=7821 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16784 outsize=6845 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16784 outsize=8621 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16784 outsize=9265 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16784 outsize=10805 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=5853 outsize=10385 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=7809 outsize=13965 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=8425 outsize=15737 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=8697 outsize=16397 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=9301 outsize=17289 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=11865 outsize=23233 ok=1

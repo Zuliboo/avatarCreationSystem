@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D97176E3-1FE1-7E87-8C27-63C7D96E0551}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ScriptableRenderLoop/com.unity.shadergraph/README.md">
+    <Files>
+      <File FileName="Assets/ScriptableRenderLoop/com.unity.shadergraph/README.md" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HDRP__TestRunner PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
