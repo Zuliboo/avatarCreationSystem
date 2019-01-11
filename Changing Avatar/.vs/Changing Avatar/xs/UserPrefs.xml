@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{67B6DAF3-DD9B-5F71-C0CC-BC3DB065A4F7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CollisionWithChoices.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CollisionWithChoices.cs" Line="26" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Changing_220Avatar PreferredExecutionTarget="Unity.Editor" />
+</Properties>
