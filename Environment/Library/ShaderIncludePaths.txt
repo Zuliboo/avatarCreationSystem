@@ -1,1 +1,0 @@
-/Users/zach/Documents/GitHub/avatarCreationSystem/Environment/Assets/ScriptableRenderLoop/com.unity.shadergraph
