@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Slash to Change.unity
+- path: C:/Users/design_review/Documents/GitHub/avatarCreationSystem/Push to Change/Assets/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1
