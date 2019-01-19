@@ -341,6 +341,11 @@
     <Compile Include="Assets\Scripts\AlterParticle.cs" />
     <Compile Include="Assets\Scripts\ChangeColor.cs" />
     <Compile Include="Assets\Scripts\ChangeColorOnTrigger.cs" />
+    <Compile Include="Assets\Scripts\ChangeColorUsingTag.cs" />
+    <Compile Include="Assets\Scripts\ChangeColorUsingTags\changeColorHandLeft.cs" />
+    <Compile Include="Assets\Scripts\ChangeColorUsingTags\changeColorHandRight.cs" />
+    <Compile Include="Assets\Scripts\ChangeColorUsingTags\changeColorHead.cs" />
+    <Compile Include="Assets\Scripts\ExtendSwords.cs" />
     <None Include="Assets\Oculus\Avatar\Content\Materials\AvatarMaterialStateShader.cginc" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />

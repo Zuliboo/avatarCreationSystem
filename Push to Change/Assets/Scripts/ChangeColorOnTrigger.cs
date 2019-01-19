@@ -26,7 +26,6 @@ public class ChangeColorOnTrigger : MonoBehaviour
             Material _material = GetComponent<Renderer>().material;
             Color _targetColor = Color.blue;
             _material.SetColor("_EmissionColor", _targetColor);
-            Debug.Log("<color=red>BLUE: </color>AssetBundle not found");
         }
 
         if (collider.tag == "white")
@@ -35,7 +34,6 @@ public class ChangeColorOnTrigger : MonoBehaviour
             Material _material = GetComponent<Renderer>().material;
             Color _targetColor = Color.white;
             _material.SetColor("_EmissionColor", _targetColor);
-            Debug.Log("<color=red>WHITE: </color>AssetBundle not found");
         }
     }
 }

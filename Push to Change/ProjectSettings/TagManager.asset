@@ -7,6 +7,9 @@ TagManager:
   - swords
   - blue
   - white
+  - head
+  - handLeft
+  - handRight
   layers:
   - Default
   - TransparentFX

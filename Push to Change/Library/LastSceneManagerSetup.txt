@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/SlashToChange.unity
+- path: Assets/Scenes/DragOnToChange - Self and Mannequin.unity
   isLoaded: 1
   isActive: 1
